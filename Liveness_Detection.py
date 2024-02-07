@@ -95,6 +95,8 @@ Se optar pela construção e treinamento de um modelo de redes neurais convuluci
 ### 4.1 Organização de dados para treinamento de modelo de liveness (2 pontos)
 """
 
+!pip install opencv-python-headless
+
 !pip install opencv-python
 
 !pip install pillow
